@@ -33,6 +33,11 @@ Software engineer
 </tr>
 </table>
 
+## Experience
+
+**Lead Developer · Roblox game development**  
+One year on a Roblox game that reached **30 million visits**.
+
 ### From idea to deployment
 
 At Camorix, my work spans planning, system design, development, and deployment.
