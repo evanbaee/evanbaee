@@ -35,6 +35,9 @@ Software engineer
 
 ## Experience
 
+**Freelance Software Engineer · 6 years**  
+Primarily developed websites and software agents, including Discord bots.
+
 **Lead Developer · Roblox game development**  
 One year on a Roblox game that reached **30 million visits**.
 
